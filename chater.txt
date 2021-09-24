@@ -1,0 +1,13 @@
+Title
+
+Mission Statement: What is the goal of this Security Guild?
+
+Purpose: What purpose will this Guild serve?
+
+Security Champions: Define exactly what a Security Champion is and what they'll be doing.
+
+Meeting Cadence: We meet every two weeks.
+
+Communication: How will you communicate?  Slack, email, webex, etc.
+
+Benefits of being a Security Champion: How does this benefit them?
